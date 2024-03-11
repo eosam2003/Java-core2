@@ -1,0 +1,59 @@
+1)Defina com suas palavras o que é Java?
+
+Java é uma linguagem de programação de alto nível conhecida por sua portabilidade, sendo frequentemente utilizada no desenvolvimento de aplicativos empresariais, sistemas embarcados e aplicações web.Java é uma linguagem de programação de alto nível conhecida por sua portabilidade, sendo frequentemente utilizada no desenvolvimento de aplicativos empresariais, sistemas embarcados e aplicações web.
+
+2)Defina com suas palavras o que é plataforma Java?
+
+A plataforma Java é um ambiente de desenvolvimento e um conjunto abrangente de bibliotecas.
+
+3) Defina com suas palavras o que é linguagem de programação Java?
+
+Java é uma linguagem de programação versátil, orientada a objetos e portátil, projetada para ser independente de plataforma, permitindo que os programas escritos em Java sejam executados em diferentes sistemas operacionais.
+
+4)Defina com suas palavras o que é editor de texto? Cite exemplos.
+
+Um editor de texto é um software para criar e modificar documentos de texto. Exemplos incluem o Bloco de Notas (Windows), o TextEdit (Mac) e o Notepad++ (multiplataforma).
+
+5) Defina com suas palavras o que é IDE? Cite exemplos.
+
+Uma IDE (Ambiente de Desenvolvimento Integrado) é um software que oferece ferramentas abrangentes para desenvolvimento de software, incluindo editor de código, depurador e compilador. Exemplos incluem Eclipse, IntelliJ IDEA e Visual Studio.
+
+6)Cite cinco exemplos de IDE que podem ser utilizadas para desenvolver a linguagem de programação Java.
+
+Exemplos de IDEs para programação Java incluem Eclipse, IntelliJ IDEA e NetBeans.
+
+7)Defina com suas palavras o que é a sigla JVM?
+
+A sigla JVM refere-se à "Java Virtual Machine" (Máquina Virtual Java), uma parte fundamental do ambiente de execução Java.
+
+8)Explique com suas palavras o conteúdo de uma JVM.
+
+Ela permite a execução de programas Java em diferentes plataformas, convertendo o código Java compilado em bytecode para que possa ser interpretado e executado pela máquina virtual.
+
+9)Explique com suas palavras o que é Projeto.
+
+Um projeto é como um grande quebra-cabeça que as pessoas estão tentando resolver juntas. Cada pessoa tem uma tarefa específica para fazer, e quando todas as tarefas são concluídas, o quebra-cabeça fica completo.
+
+10)Explique com suas palavras o que é pacote.
+
+Um pacote é como uma caixa mágica onde guardamos coisas parecidas juntas. Então, se estamos fazendo um projeto de arte, colocamos todos os lápis e papéis em uma caixa especial chamada "pacote de arte".
+
+11)Explique com suas palavras o que é Classe.
+
+Uma classe é como um molde mágico que ajuda a criar coisas especiais. Vamos imaginar que queremos fazer ursinhos de pelúcia. A classe seria como o molde que usamos para fazer todos os ursinhos parecidos. 
+
+12)Cite 5 areas onde encontramos a linguagem de programação Java.
+
+1. *Desenvolvimento Android:* Java é a principal linguagem de programação para o desenvolvimento de aplicativos Android.
+
+2. *Aplicações Empresariais:* Java é amplamente utilizado no desenvolvimento de sistemas de gerenciamento empresarial (ERP), sistemas de automação e outras aplicações empresariais.
+
+3. *Desenvolvimento Web:* Por meio de frameworks como Spring, Java é aplicado no desenvolvimento de aplicativos web robustos.
+
+4. *Computação em Nuvem:* Java é usado em serviços e soluções de computação em nuvem, proporcionando escalabilidade e desempenho confiável.
+
+5. *Aplicações de Desktop:* Embora menos comum atualmente, Java é utilizado para desenvolver aplicações de desktop, especialmente em ambientes corporativos.
+
+13) Explique com suas palavras o que é o conceito de Case Sensitity.
+
+O conceito de "case sensitivity" refere-se à sensibilidade a maiúsculas e minúsculas em linguagens de programação ou sistemas. Em ambientes case-sensitive, letras maiúsculas e minúsculas são tratadas como distintas. 
